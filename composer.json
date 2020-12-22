@@ -1,7 +1,7 @@
 {
   "name": "vicente007/telegram-bot-sdk",
   "description": "The Unofficial Telegram Bot API PHP SDK",
-  "keywords": ["laravel"],
+  "keywords": ["laravels"],
   "type": "library",
   "homepage": "https://github.com/irazasyed/telegram-bot-sdk",
   "license": "BSD-3-Clause",
