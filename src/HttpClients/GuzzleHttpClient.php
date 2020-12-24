@@ -110,7 +110,7 @@ class GuzzleHttpClient implements HttpClientInterface
         $body,
         $options,
         $isAsyncRequest = false,
-        $proxy = '192.168.17.103:1080'
+        $proxy = null
     ): array {
         $default_options = [
             RequestOptions::HEADERS         => $headers,
