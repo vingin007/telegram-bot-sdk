@@ -14,6 +14,7 @@ use Telegram\Bot\HttpClients\HttpClientInterface;
  */
 class Api
 {
+    
     use Macroable {
         __call as macroCall;
     }
